@@ -1,0 +1,10 @@
+Id	Nome	Nome esteso	Popolazione	Numero contatti totale	Contatti per residente	Contatti sul totale	Anziani	Disagio adulto	Famiglia e Minori	Disabili	0-3	4-7	8-10	11-14	15-17	18-25	26-35	36-50	51-64	>=65	Non fornita	Contributi economici	Supporto a persona e famiglia	Interventi domiciliari e per la domiciliarità	Strutture residenziali	Segretariato sociale	Strutture semi-residenziali	Educativo assistenziale e supporto inserimento lavorativo	Integrazione sociale	Pronto intervento sociale	Servizi integrativi di supporto	Prevenzione	Personale	Telefono	E-Mail	Fax	Lettera
+1	Borgo Panigale	Quartiere Borgo Panigale	26073	2069	0,0754	0,0756	868	371	800	30	6	8	6	17	24	50	266	535	225	818	114	898	135	302	168	422	68	30	17	3	21	5	1365	568	83	38	15
+2	Navile	Quartiere Navile	67800	5720	0,0815	0,209	2215	955	2418	132	21	30	39	34	91	165	730	1680	702	2183	45	2826	1173	645	549	349	87	21	38	24	7	1	4749	586	123	234	27
+3	Porto	Quartiere Porto	32371	3370	0,088	0,123	1444	702	1160	64	28	17	17	27	42	82	394	889	508	1335	31	1174	1707	207	108	86	17	13	13	28	8	9	2385	635	207	13	10
+4	Reno	Quartiere Reno	34234	2903	0,079	0,106	1002	597	1245	59	6	5	12	12	16	101	395	912	404	961	79	1313	98	410	154	814	64	14	4	30	2		2587	177	110	21	7
+5	San Donato	Quartiere S. Donato	32006	4191	0,102	0,153	1319	1257	1442	173	216	150	59	163	156	108	369	898	586	1275	211	1980	1407	290	195	181	36	20	9	28	20	25	3116	264	320	403	81
+6	Santo Stefano	Quartiere S. Stefano	50010	1514	0,03	0,0552	694	395	393	32	16	8	6	9	19	31	160	390	190	678	7	681	110	231	184	173	55	15	19	9	2	35	1414	20	30	43	5
+7	San Vitale	Quartiere S. Vitale	47475	2425	0,0613	0,089	1001	569	801	54	94	85	54	93	60	67	203	445	258	955	111	847	944	218	219	101	40	4	7	18	5	22	1596	212	235	334	48
+8	Saragozza	Quartiere Saragozza	36531	2539	0,063	0,0926	1182	353	954	50	13	26	11	20	34	63	262	661	337	1104	8	980	1132	181	139	22	27	13	8	11	10	16	1881	495	79	8	8
+9	Savena	Quartiere Savena	59391	2644	0,0446	0,0966	1521	418	654	51	33	31	19	26	25	50	181	516	248	1511	4	933	707	551	276	24	96	22	26	4	5		1531	724	165	119	81
